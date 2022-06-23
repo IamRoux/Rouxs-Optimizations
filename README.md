@@ -1,4 +1,4 @@
-# Optimization Mod Pack
+# Roux's Optimization Mod Pack
 ![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/IamRoux/Rouxs-Optimizations?include_prereleases) ![GitHub file size in bytes](https://img.shields.io/github/size/IamRoux/Rouxs-Optimizations/Roux's%2520Optimizations.zip) ![GitHub all releases](https://img.shields.io/github/downloads/IamRoux/Rouxs-Optimizations/total)
 
 A compiled zip file of Optimization Mods for Fabric 1.19.x 
