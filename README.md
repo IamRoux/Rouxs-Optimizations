@@ -27,4 +27,4 @@ Move the .zip file into the /mods/ folder and unzip. If the folder does not exis
 * [ProspectorDev](https://www.curseforge.com/members/prospectordev/projects)
 * [FlashyReese](https://www.curseforge.com/members/flashyreese/projects)
 * [Spottedstar](https://www.curseforge.com/members/spottedstar/followers)
-
+* And All Others!
